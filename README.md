@@ -10,28 +10,29 @@ Each workshop's organizers are responsible for ensuring that this code of conduc
 
 ## To Do
 
-*Adopting a Code of Conduct*
+**Adopting a code of conduct**
 
-* Adopt Code of Conduct as a community
+* Adopt code of conduct as a community
  * Figure out what that means, really. A committee? The board?
-* Figure out our process for updating the Code of Conduct moving forward
+* Figure out our process for updating the code of conduct moving forward
 
-*Adding the Code of Conduct to our materials*
+**Adding the code of conduct to our materials**
 
-* Add Code of Conduct + incident guides to RailsBridge.org
-* Add Code of Conduct info to teacher training slides
-* Add Code of Conduct info to any and all opening presentation decks
+* Add code of conduct + incident guides to RailsBridge.org
+* Add code of conduct info to teacher training slides
+* Add code of conduct info to any and all opening presentation decks
 
-*Advertising the Code of Conduct*
+**Advertising the code of conduct**
 
-* Write a blog post introducing the Code of Conduct
+* Write a blog post introducing the code of conduct
 * Train all meta-organizers on training organizers on why it's important
 
 ## Things To Discuss
 
-* Do we want everyone to sign a piece of paper with their agreement to abide by the Code of Conduct?
+* Do we want everyone to sign a piece of paper with their agreement to abide by the code of conduct?
  * This could be done once per participant & stored as a boolean in Bridge Troll
 * Do we want to clarify that any workshop that calls itself a RailsBridge needs to:
- * Agree to this Code of Conduct
- * Enforce this Code of Conduct
+ * Agree to this code of conduct
+ * Enforce this code of conduct
  * Anything else?
+* The PyCon code of conduct was written for a very large event. The language should probably be updated to be more appropriate / senstitive to the size of a RailsBridge worskhop / event.
