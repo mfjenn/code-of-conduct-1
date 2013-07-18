@@ -1,19 +1,18 @@
 RailsBridge Code of Conduct
 =====================
 
-This is a code of conduct for RailsBridge workshops. It is a fork of the 2013 PyCon code of conduct.
+This is the code of conduct for RailsBridge workshops. It is a fork of the 2013 PyCon code of conduct.
 
 Each workshop's organizers are responsible for ensuring that this code of conduct is:
 
 * Visible to all attendees and volunteers prior to the workshop and
 * Discussed with everyone at the opening presentation
 
+
 ## To Do
 
 **Adopting a code of conduct**
 
-* Adopt code of conduct as a community
- * Figure out what that means, really. A committee? The board?
 * Figure out our process for updating the code of conduct moving forward
 
 **Adding the code of conduct to our materials**
