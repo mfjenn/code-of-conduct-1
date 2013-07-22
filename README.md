@@ -1,8 +1,8 @@
 == Bridge Foundry Code of Conduct ==
 
-Bridge Foundry is dedicated to creating a community of software developers that are reflective of the diversity in the general population. To that end, we are dedicated to creating welcoming and friendly learning environments.  All RailsBridge participants agree to the following:
+Bridge Foundry seeks to create a community of software developers that are reflective of the diversity in the general population. To that end, we are dedicated to creating welcoming and friendly learning environments.  All participants agree to the following:
 * Everyone has something to contribute. Everyone deserves access to materials and community that will help them learn. As long as an individual can be respectful and not disruptive to other participants, they deserve to participate.
-* If there is limited space and resources, anyone is welcome to replicate an event, such that more opportunities may be available. All RailsBridge curricula and organizing materials are open source and free. Provided that the organizer and event conform to RailsBridge guidelines, we will help.
+* If there is limited space and resources, anyone is welcome to replicate an event, such that more opportunities may be available. All curricula and organizing materials are open source and free. Provided that the organizer and event conform to project guidelines, we will help.
 * A harassment-free experience for everyone is essential. Our anti-harassment policy can be found at: [insert URL here]
 
 Furthermore, workshops and associated "after party" must be safe environments focused on learning, which means:
