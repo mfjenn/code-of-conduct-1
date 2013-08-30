@@ -4,7 +4,7 @@ Harassment includes offensive verbal comments related to gender, gender identity
 
 Organizers will often seek first to educate the individuals, especially for newcomers. However, if a participant engages in harassing behavior, the organizers may take any action they deem appropriate  including warning the offender or expulsion from the event. If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact an organizer immediately. 
 
-Organizers will identify themselves during the opening remarks of every event.  If you are unsure of who to contact, ask any volunteer (usually identified with a star on their nametag).
+Organizers will identify themselves during the opening remarks of every event.  If you are unsure of who to contact, ask any volunteer (usually identified with a star on their name tag).
 
 [Email address for organizers]
 [Phone number for conference security or organizers]
