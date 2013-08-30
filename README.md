@@ -1,37 +1,26 @@
-RailsBridge Code of Conduct
-=====================
+# Bridge Foundry Code of Conduct -- DRAFT
 
-This is the code of conduct for RailsBridge workshops. It is a fork of the 2013 PyCon code of conduct.
+Bridge Foundry seeks to create a community of software developers that are reflective of the diversity in the general population. To that end, we are dedicated to creating welcoming and friendly learning environments.  
 
-Each workshop's organizers are responsible for ensuring that this code of conduct is:
+The following organizations are Bridge Foundry projects or partners and agree to the code of conduct below:
+* RailsBridge
 
-* Visible to all attendees and volunteers prior to the workshop and
-* Discussed with everyone at the opening presentation
+All participants agree to the following:
+* Everyone has something to contribute. Everyone deserves access to materials and community that will help them learn. As long as an individual can be respectful and not disruptive to other participants, they deserve to participate.
+* If there is limited space and resources, anyone is welcome to replicate an event, such that more opportunities may be available. All curricula and organizing materials are open source and free. Provided that the organizer and event conform to project guidelines, we will help.
+* A harassment-free experience for everyone is essential. Our anti-harassment policy can be found at: [insert URL here]
 
+Furthermore, workshops and associated "after party" must be safe environments focused on learning.  
 
-## To Do
+## Clear examples of how to comply with the Code of Conduct
+* Use your words and respect boundaries. If you feel like it would help to work directly on someone's keyboard, ask first. 
+* Refer participants to open and free material for follow-up learning.   
+* Do not ask anyone out on a date. 
 
-**Adopting a code of conduct**
+## Gray Area
+If you are not sure if something is appropriate behavior, it probably isn't.  Each person gets to define for himself or herself where that line is.  There are cultural difference and age differences. Impact matters more than intent.  If you didn’t realize that your behavior would have a negative impact, that is your responsibility.  Problems happen when we presume that our way of being is ok with everyone, when we assume that our way of thinking or behaving is the norm.  This is particularly problematic when the other person is less empowered or is a member of a minority group.
 
-* Figure out our process for updating the code of conduct moving forward
+* If you are a teacher or volunteer for their email address or phone number, it may be interpreted as creepy or stalking OR it may be a friendly follow-up.  Be aware that you may not detect the difference.  If you just met the other person for the first time, consider offering your contact info, instead of requesting theirs.
 
-**Adding the code of conduct to our materials**
+ 
 
-* Add code of conduct + incident guides to RailsBridge.org
-* Add code of conduct info to teacher training slides
-* Add code of conduct info to any and all opening presentation decks
-
-**Advertising the code of conduct**
-
-* Write a blog post introducing the code of conduct
-* Train all meta-organizers on training organizers on why it's important
-
-## Things To Discuss
-
-* Do we want everyone to sign a piece of paper with their agreement to abide by the code of conduct?
- * This could be done once per participant & stored as a boolean in Bridge Troll
-* Do we want to clarify that any workshop that calls itself a RailsBridge needs to:
- * Agree to this code of conduct
- * Enforce this code of conduct
- * Anything else?
-* The PyCon code of conduct was written for a very large event. The language should probably be updated to be more appropriate / senstitive to the size of a RailsBridge worskhop / event.
