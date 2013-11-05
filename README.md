@@ -15,7 +15,8 @@ Furthermore, workshops and associated "after party" must be safe environments fo
 ## Clear examples of how to comply with the Code of Conduct
 * Use your words and respect boundaries. If you feel like it would help to work directly on someone's keyboard, ask first. 
 * Refer participants to open and free material for follow-up learning.   
-* Do not ask anyone out on a date. 
+* Do not ask anyone out on a date.
+* Remember that "No, Thanks" is the same as "No". Respect that and don't be pushy. If the other person wants to follow your recommendation, they will. 
 
 ## Gray Area
 If you are not sure if something is appropriate behavior, it probably isn't.  Each person gets to define for himself or herself where that line is.  There are cultural difference and age differences. Impact matters more than intent.  If you didn’t realize that your behavior would have a negative impact, that is your responsibility.  Problems happen when we presume that our way of being is ok with everyone, when we assume that our way of thinking or behaving is the norm.  This is particularly problematic when the other person is less empowered or is a member of a minority group.
